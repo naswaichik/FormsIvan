@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\Тест\bin\Debug\Тест.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\Тест\bin\Debug\Тест.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Тест\bin\Debug\Тест.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\Тест\obj\Debug\Тест.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Тест\obj\Debug\Тест.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Тест\obj\Debug\Тест.Form1.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Тест\obj\Debug\Тест.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\Тест\obj\Debug\Тест.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Тест\obj\Debug\Тест.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\Тест\obj\Debug\Тест.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\Тест\obj\Debug\Тест.pdb
+C:\Users\User\Desktop\Тест\bin\Debug\Тест.exe.config
+C:\Users\User\Desktop\Тест\bin\Debug\Тест.exe
+C:\Users\User\Desktop\Тест\bin\Debug\Тест.pdb
+C:\Users\User\Desktop\Тест\obj\Debug\Тест.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Тест\obj\Debug\Тест.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Тест\obj\Debug\Тест.Form1.resources
+C:\Users\User\Desktop\Тест\obj\Debug\Тест.Properties.Resources.resources
+C:\Users\User\Desktop\Тест\obj\Debug\Тест.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Тест\obj\Debug\Тест.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Тест\obj\Debug\Тест.exe
+C:\Users\User\Desktop\Тест\obj\Debug\Тест.pdb
+C:\Users\Diman\OneDrive\Рабочий стол\ваня — копия\Тест\bin\Debug\Тест.exe.config
+C:\Users\Diman\OneDrive\Рабочий стол\ваня — копия\Тест\bin\Debug\Тест.exe
+C:\Users\Diman\OneDrive\Рабочий стол\ваня — копия\Тест\bin\Debug\Тест.pdb
+C:\Users\Diman\OneDrive\Рабочий стол\ваня — копия\Тест\obj\Debug\Тест.csproj.AssemblyReference.cache
+C:\Users\Diman\OneDrive\Рабочий стол\ваня — копия\Тест\obj\Debug\Тест.Form1.resources
+C:\Users\Diman\OneDrive\Рабочий стол\ваня — копия\Тест\obj\Debug\Тест.Properties.Resources.resources
+C:\Users\Diman\OneDrive\Рабочий стол\ваня — копия\Тест\obj\Debug\Тест.csproj.GenerateResource.cache
+C:\Users\Diman\OneDrive\Рабочий стол\ваня — копия\Тест\obj\Debug\Тест.csproj.CoreCompileInputs.cache
+C:\Users\Diman\OneDrive\Рабочий стол\ваня — копия\Тест\obj\Debug\Тест.exe
+C:\Users\Diman\OneDrive\Рабочий стол\ваня — копия\Тест\obj\Debug\Тест.pdb
